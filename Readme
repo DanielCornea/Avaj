@@ -1,0 +1,10 @@
+Do compile with javac 
+Run with Main sources.txt 
+
+a samle entry data: 
+
+
+22 
+JetPlane h1 23 12 32
+Helicopter h2 43 432 21
+Baloon h3 43 23 23
